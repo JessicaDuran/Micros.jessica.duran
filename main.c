@@ -1,5 +1,5 @@
 /*
-@author:        Walter Gonzalez Domenzain
+@author:        Jessica Duran
 - Board red led     connected to B18    (turns on with 0) 
 - Board green led   connected to B19    (turns on with 0) 
 - Board blue led    connected to D1     (turns on with 0) 
